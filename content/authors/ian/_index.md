@@ -20,7 +20,6 @@ interests:
 - Data science / statistics
 - Data visualization
 name: Ian T. Adams
-name: Ian T. Adams
 organizations:
 - name: University of Utah
   url: https://www.rstudio.com/

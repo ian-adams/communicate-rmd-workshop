@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Communicating<br>with R Markdown"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "proteaceae.jpg"
+hero_media = "bowl.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -49,7 +49,7 @@ hero_media = "proteaceae.jpg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Proteaceæ illustration by Elizabeth Twining, [CC-BY-SA Nicholas Rougeux]((https://www.c82.net/twining/plants/?id=118))<br>Website theme by [Desirée De Leon](http://desiree.rbind.io/)'
+  label = 'Bowl photograph by [Jonathan Riley](https://unsplash.com/@jonathan_christian_photography/portfolio)<br>Website theme by [Desirée De Leon](http://desiree.rbind.io/)<br>Course Materials and Design [Alison Hill](https://github.com/apreshill)'
 +++
 
 A full-day workshop for <i class="fab fa-r-project"></i>&nbsp;users who want to get more out of [R Markdown](https://rmarkdown.rstudio.com/) (and friends). In this workshop, you will create, publish, and share some beautiful data products. You'll learn to make:
