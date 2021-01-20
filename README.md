@@ -1,18 +1,18 @@
-R Markdown for Medicine: <br>From Data to Manuscript
+R Markdown for Political Science: <br>From Data to Manuscript
 ================
 
-### [R/Medicine 2019 conference](https://r-medicine.com/)
+### [Policy & Politics Workshop](https://poli-sci.utah.edu/)
 
 -----
 
 <br>
 
-:spiral\_calendar: September 30, 2019  
+:spiral\_calendar: June 1, 2022  
 :clock8: 09:00am - 05:00pm  
-:round\_pushpin: Canberra, Australia  
+:round\_pushpin: Salt Lake City, Utah  
 :white\_check\_mark: [Register](https://statsoc.org.au/event-3457232)  
 :anchor:
-[`ysc-rmarkdown.netlify.com`](https://ysc-rmarkdown.netlify.com/)
+[`ita-rmarkdown.netlify.app`](https://ita-rmarkdown.netlify.app/)
 
 <br>
 
@@ -67,17 +67,7 @@ take this workshop.
 
 ## Instructor
 
-Alison Hill is a Data Scientist & Professional Educator at RStudio. She
-received her PhD in psychology and quantitative methods from Vanderbilt
-University in 2008. Prior to joining RStudio, she was an Assistant
-Professor at Arizona State University, and an Associate Professor at
-Oregon Health & Science University (OHSU). Alison is one of the keynote
-speakers at the 2019 Young Statisticians Conference. She regularly leads
-workshops and develops online learning materials on topics like
-reproducible research, machine learning, and data visualization. She is
-also a co-author of the book ‘blogdown: Creating Websites with R
-Markdown’ (<https://bookdown.org/yihui/blogdown/>). Alison lives in
-Portland, Oregon with her husband and young daughter.
+Ian Adams is a Ph.D. candidate in Political Science at the University of Utah, where he also completed a Masters of Public Administration. His research interests include body-worn cameras and policing. Ian is a 2018 American Society of Public Administration Founders' Fellow, and a 2020/2021 doctoral fellow of the Academy of Criminal Justice Sciences. Personal website (and current CV) available at www.ianadamsresearch.com. He lives in Salt Lake City with his partner, four kids, two dogs, and one bird.
 
 ## Pre-work
 
