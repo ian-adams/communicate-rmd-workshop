@@ -1,8 +1,8 @@
 ---
 title: "Templates"
 session: "03"
-subtitle: "Young Statisticians Conference 2019"
-author: Alison Hill
+subtitle: "Rmarkdown for Politics and Policy"
+author: Ian T. Adams
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
@@ -20,9 +20,9 @@ output:
     includes:
       in_header: assets/header.html  
 params:
-  wifi_network: "Functions"
-  wifi_password: "Stata_16"
-  site_link: "https://ysc-rmarkdown.netlify.com/"
+  wifi_network: "UU Guest"
+  wifi_password: "Follow Prompts"
+  site_link: "https://ita-rmarkdown.netlify.app/"
   cloud_link: "http://bit.ly/ysc-rmarkdown"
   github_link: "https://github.com/ysc2019-workshop/03-templates"
 ---

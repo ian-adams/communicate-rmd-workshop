@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
-subtitle: "Young Statisticians Conference 2019"
-author: Alison Hill
+subtitle: "RMarkdown for Politics and Policy"
+author: Ian T. Adams
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
@@ -19,9 +19,9 @@ output:
     includes:
       in_header: [assets/loop.html, assets/header.html]
 params:
-  wifi_network: "Functions"
-  wifi_password: "Stata_16"
-  site_link: "https://ysc-rmarkdown.netlify.com/"
+  wifi_network: "UU Guest"
+  wifi_password: "None Required, please follow prompts"
+  site_link: "https://ita-rmarkdown.netlify.app/"
   cloud_link: "http://bit.ly/ysc-rmarkdown"
 ---
 
@@ -97,7 +97,7 @@ class: center, middle
 # Do this! `r emo::ji("point_down")`
 
 # https://commonmark.org/help/tutorial/
-
+ 
 ---
 
 ```{r child="what-is-rmd.Rmd"}
