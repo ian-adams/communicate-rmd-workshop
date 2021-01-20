@@ -15,17 +15,17 @@ font = "font4"
 day_night = false
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "A full-day workshop on the R Markdown family of packages for the Statistical Society of Australia"
+description = "A full-day workshop on the R Markdown family of packages for [insert name of conference/meeting]"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "proteaceae.jpg"
+sharing_image = "bowl.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "rstudio"
+twitter = "LiminalMori"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "rstudio-edu-logo.png"
+logo = "logo.png"
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -44,7 +44,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 # `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/rstudio-education/communicate-rmd-workshop", editable = {docs = true}}
+edit_page = {repo_url = "https://github.com/ian-adams/communicate-rmd-workshop", editable = {docs = true}}
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -57,9 +57,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
+email = "ian.adams@utah.edu"
 phone = ""
-address = "Manuka Oval, Manuka Circle, Griffith ACT 2603"
+address = "201 Presidents' Cir, Salt Lake City, UT 84112"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday September 30, 09:00am - 04:30pm"""
@@ -70,7 +70,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "#YSC2019", link = "https://twitter.com/hashtag/YSC2019"},
+  # {icon = "twitter", icon_pack = "fab", name = "#YSC2019", link = "https://twitter.com/hashtag/YSC2019"},
   # {icon = "github", icon_pack = "fab", name = "See the materials", link = "https://github.com/rstudio-education/rmd4medicine"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -94,8 +94,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-latitude = "-35.3181"
-longitude = "149.1347"
+latitude = "40.765619377499284"
+longitude = "-111.84199481164563"
 zoom = 15
 
 ############################

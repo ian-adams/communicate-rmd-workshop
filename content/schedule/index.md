@@ -1,16 +1,16 @@
 ---
 title: "Workshop Schedule"  # Add a page title.
 summary: "Overview of our full-day schedule"  # Add a page description.
-date: "2019-01-01T00:00:00Z"  # Add today's date.
+date: "`r Sys.Date()`"  # Add today's date.
 ---
 
 <br>
 
-:spiral_calendar:    September 30, 2019  
+:spiral_calendar:    June 1, 2021  
 :clock8:             09:00am - 05:00pm   
-:round_pushpin:      Canberra, Australia   
+:round_pushpin:      Salt Lake City, Utah   
 :white_check_mark:   [Register](https://statsoc.org.au/event-3457232)  
-:anchor:             [`ysc-rmarkdown.netlify.com`](https://ysc-rmarkdown.netlify.com/)
+:anchor:             [`ita-rmarkdown.netlify.com`](https://ita-rmarkdown.netlify.com/)
 
 <br>
 
